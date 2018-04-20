@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body{
+	background-color: #000000;
+	}
+
+h1{ color:#FFF;
+}
+
+h2{ color:#FFF;
+}
+
+.nav{ border: 2px solid #FFF;
+background-color: #F00;
+width:80px;
+height:170px;
+font-size:17.5px;
+
+}
+
+
+
+
